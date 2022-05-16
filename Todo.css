@@ -1,0 +1,151 @@
+.main-border{
+    border:10px orange solid;
+    width:96vw;
+    height:100vh;
+    text-align:center;
+    padding-right: 20px;;
+}
+.strike{
+    text-decoration:line-through;
+    color:orange;
+}
+
+
+
+
+.paris{
+    display:flex;
+    flex-flow:row;
+    flex-wrap: wrap;
+    justify-content:center;
+    position:absolute;
+    top:38vh;
+    left:30vw;
+    
+
+}
+.items{
+    border:3px orange solid;
+    padding:10px;
+    height:220px;
+    box-shadow: 2px 2px 3px orange;
+    border-radius:15px;
+    margin:7px;
+    font-size:x-large;
+    
+}   
+.one{
+    text-decoration: none;
+    color:black;
+}
+.line{
+    text-decoration: none;
+    color:white;
+}
+.bold{
+    font-weight: bolder;
+    font-size:xx-large;
+}
+.light{
+    font-weight: -1px;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.two{
+    position:absolute;
+    top:-19px;
+    left:35vw;
+    font-size:x-large;
+}
+.add{
+    color:white;
+    background-color: orange;
+    border-radius:60%;
+    padding-top:2px;
+   font-size:medium;
+    text-align: center;
+    position:absolute;
+    left:32vw;
+}
+.heading{
+    text-align:center;
+    position:absolute;
+    top:30vh;
+    left:30vw;
+}
+.Trip{
+    text-align:center;
+}
+.back-arrow{
+    color:white;
+    width:30px;
+    background-color:orange;
+    border-radius:50%;
+    padding-top:3px;
+    position:absolute;
+    left:50vw;
+}
+.next-page{
+   
+    position:absolute;
+    left:40vw;
+    border:2px orange solid;
+    padding:90px;
+    box-shadow:2px 2px 4px orange;
+    font-size:x-large;
+
+}
+.bottom{
+    color:white;
+    background-color:orange;
+    padding:1px;
+    border-radius:80%;
+    position:absolute;
+    bottom:1px;
+    right:1px;
+}
+.back1{
+    position:absolute;
+    right:-50px;
+    color:orange;
+}
+.new-list{
+    border:4px solid orange;
+    width:20vw;
+    text-align:center;
+    padding:10px;
+    color:orange;
+    position:absolute;
+    right:40vw;
+    top:40vh;
+    box-shadow:2px 2px 4px orange;
+}
+.text{
+     border:orange solid 2px;
+     border-radius:9px;
+}
+.button{
+    color:white;
+    background-color: orange;
+    border-radius:20px;
+    border:orange;
+
+}
+.new-item{
+    border:4px solid orange;
+    width:20vw;
+    text-align:center;
+    padding:10px;
+    color:orange;
+    position:absolute;
+    right:40vw;
+    top:40vh;
+    box-shadow:2px 2px 4px orange;
+}
+.blur1{
+    filter: blur(3px);
+    text-align: center;
+}
+.blur2{
+    filter:blur(3px);
+}
